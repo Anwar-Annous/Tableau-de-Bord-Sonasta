@@ -1,0 +1,27 @@
+.cardi {
+    border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+    cursor: default; 
+}
+.cardi  :hover {
+        transform: scale(1.05); 
+        cursor: pointer;
+    }
+.gestion-card{
+
+        background: linear-gradient(#9694ff,#a6a4ff);
+        cursor: pointer;
+}
+.gestion-title{
+
+	color: #1b264c;
+	font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+.gestion-title:hover{
+
+
+    color: #000;
+}
