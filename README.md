@@ -77,5 +77,5 @@ Un tableau de bord développé pour **Sonasta**, une entreprise spécialisée da
 ##**Contact**
 **Si vous avez des questions, vous pouvez me contacter :
 
--Email : anwarannous@example.com
+-Email : anwarannous@gmail.com
 -GitHub : https://github.com/Anwar-Annous
